@@ -2,6 +2,8 @@ public class StringPractice {
     /*
     String characters are case-sensitive
     CharAt use to get characters
+    String is immutable (cannot change)
+    StringBuffer , StringBuilder is mutable
      */
 
     public static void main(String[] args) {
